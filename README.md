@@ -51,4 +51,8 @@ python3 main.py
 
     Use the > / || toggle button at the bottom to control playback state.
 
+ScreenShot
+![Uploading image.png…]()
+
+
 Author: Ravi Ranjan
